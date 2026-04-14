@@ -1,17 +1,3 @@
-// class Stateimage{
-//   static Stateimage img=Stateimage();
-//   static String path="assets/images/stateimage/";
-//   String img1="${path}chhattisgarh.jpeg";
-//   String img2="${path}goa.jpg";
-//   String img3="${path}haryana.jpg";
-//   String img4="${path}himachal_pradesh.jpg";
-//   String img5="${path}karnataka.jpg";
-//   String img6="${path}Madhya_Pradesh.jpg";
-//   String img7="${path}panjab.jpg";
-//   String img8="${path}hawamahal_rajasthan.webp";
-//   String img9="${path}Uttar_Pradesh_tajmahal.jpg";
-//   String img10="${path}dehli.jpg";
-// }
 class Stateimage{
   static Stateimage img=Stateimage();
   static String path="https://drive.google.com/uc?export=view&id=";
