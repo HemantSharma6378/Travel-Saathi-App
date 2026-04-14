@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604599435531",
+    "project_id": "travel-saathi-4bab9",
+    "storage_bucket": "travel-saathi-4bab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604599435531:android:3fc69f0ad9b94581c1620e",
+        "android_client_info": {
+          "package_name": "com.example.travel_saathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChwLAlR__XOa50ZbFXi9epYENWGQ1TEuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
